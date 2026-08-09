@@ -7,7 +7,7 @@ A responsive front-end clone of the Amazon homepage built using **HTML5** and **
 ## 🚀 Live Demo
 
 🌐 **View the Project:**  
-https://anujyad15-sudo.github.io/CloneAmazon/
+
 
 ---
 
